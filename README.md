@@ -1,2 +1,0 @@
-# dickiAplKotlin
-Aplikasi Kotlin Sederhana
